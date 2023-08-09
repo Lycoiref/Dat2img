@@ -1,7 +1,7 @@
 {
   "name": "dat2img",
   "version": "1.0.0",
-  "description": "Convert wechat img.dat to PNG/JPG",
+  "description": "Convert wechat img.dat to PNG/JPG/GIT",
   "main": "index.js",
   "type": "module",
   "author": "Lycoiref",
