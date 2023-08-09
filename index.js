@@ -3,7 +3,7 @@ import { FileTypes } from './src/FileTypes.js'
 import fs from 'fs'
 import path from 'path'
 
-export default class datToImg {
+export default class DatToImg {
     constructor() {
         this.__filename = path.resolve()
         this.__dirname = path.resolve(this.__filename, './')
