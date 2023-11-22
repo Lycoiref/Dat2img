@@ -1,11 +1,15 @@
 {
   "name": "dat2img",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert wechat img.dat to PNG/JPG/GIT",
   "main": "index.js",
   "type": "module",
   "author": "Lycoiref",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lycoiref/Dat2img/"
+  },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^6.2.1",
     "@typescript-eslint/parser": "^6.2.1",
